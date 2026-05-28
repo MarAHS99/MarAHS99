@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **L.A.R.A** — a fullstack business management system built with Python + FastAPI for a real client in Argentina<br><br>🤝 I'm looking to collaborate on<br><br>Python backend projects or any real-world application with business logic<br><br>🌱 I'm currently learning<br><br>React · PostgreSQL · Desktop app packaging with PyWebView + PyInstaller<br><br>💬 Ask me about<br><br>Python · FastAPI · REST APIs · Building systems that replace Excel workflows<br><br>⚡ Fun fact<br><br>I sold my first software project before finishing my first year as a developer<br><br>
+ I'm currently working on **L.A.R.A** — a fullstack business management system built with Python + FastAPI for a real client in Argentina<br><br>🤝 I'm looking to collaborate on<br><br>Python backend projects or any real-world application with business logic<br><br>🌱 I'm currently learning<br><br>React · PostgreSQL · Desktop app packaging with PyWebView + PyInstaller<br><br>💬 Ask me about<br><br>Python · FastAPI · REST APIs · Building systems that replace Excel workflows<br><br>⚡ Fun fact<br><br>I sold my first software project before finishing my first year as a developer<br><br>
 
 
 ## 🌐 Socials:
