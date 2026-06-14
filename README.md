@@ -16,4 +16,4 @@ I'm a Fullstack Developer based in Buenos Aires, Argentina. I design, build, and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarAHS99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
