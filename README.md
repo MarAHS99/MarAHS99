@@ -11,7 +11,7 @@ I'm a Fullstack Developer based in Buenos Aires, Argentina. I design, build, and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MarAHS99&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MarAHS99&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarAHS99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarAHS99&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarAHS99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
